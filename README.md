@@ -118,6 +118,8 @@ POST /login
 
 GET /employees
 
+GET /employees/with-leaves
+
 POST /employees
 
 PUT /employees/:id
